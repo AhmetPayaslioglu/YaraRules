@@ -5,6 +5,8 @@ meta:
 	reference = "https://app.any.run/tasks/fce258f3-6f06-4702-84e4-f52b649f599c/"
 	hash1 = "b4084d254f10d1236d23c9df15257d0a7ce4922f641d179046216bad63b37cdc"
 	hash2 = "5054926f1e5550d0fa2ac5890efd3fef8975d45d90a92c55e0754bdac7231489"
+	date = "2022/04"
+        maltype = "Stealer"
 
 
 strings:
