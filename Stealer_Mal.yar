@@ -11,7 +11,7 @@ strings:
 	//Make computer beep when done
 	$a1 = {4D 61 6B 65 20 63 6F 6D 70 75 74 65 72 20 62 65 65 70 20 77 68 65 6E 20 64 6F 6E 65}
 
-	//create new director 
+	//Create new director 
 	$a2 = {0A 4D 6B 44 69 72 20 2E 5C 25 63 6F 6D 70 75 74 65 72 6E 61 6D 65 25 5C 2E 65 78 65}
 	
 	//Discovering new files
