@@ -1,2 +1,2 @@
 # MyYaraRules
-I will regularly post new YARA rules in this repository.
+I will regularly post new YARA rules for hunting Malware in this repository.
