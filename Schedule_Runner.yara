@@ -18,4 +18,4 @@ strings:
   	$a6 = "SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache\\Tasks" wide ascii
   	$a7 = "You do not have sufficient permission to hide the scheduled task" wide ascii
 
-condition: uint16(0) == 0x5a4d and filesize < 500KB and ( 5 of them ) }
+condition: uint16(0) == 0x5a4d and filesize < 500KB and ( 4 of them ) }
