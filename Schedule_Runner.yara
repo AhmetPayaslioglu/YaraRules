@@ -1,6 +1,6 @@
 rule Schedule_Runner {
 meta:
-	description = "Detects Persistence Tools - This Tool does Custom Scheduled Task For Both Persistent and Lateral movement"
+	description = "Detects Persistence Tools - This tool does customize scheduled tasks for both persistence and lateral movement in a red team operation."
 	author = "Ahmet Payaslioglu @Computeus7"
 	reference = "https://github.com/netero1010/ScheduleRunner"
 	hash = "A8C8574700E33A0EECDF5D584EEC1469"
