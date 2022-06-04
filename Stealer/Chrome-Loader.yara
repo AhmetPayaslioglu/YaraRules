@@ -1,6 +1,6 @@
 rule Chrome_Loader_Mal {
 meta:
-	description = "Detects ChromeLoader Malware"
+	description = "Detects ChromeLoader Malware Payload"
 	author = "Ahmet Payaslioglu | Binalyze DFIR LAB"
 	reference = "https://redcanary.com/blog/chromeloader/"
 	hash1 = "ded20df574b843aaa3c8e977c2040e1498ae17c12924a19868df5b12dee6dfdd"
