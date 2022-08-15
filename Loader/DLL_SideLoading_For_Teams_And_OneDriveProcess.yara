@@ -1,4 +1,4 @@
-rule DLL_SideLoading_For_Teams_And_OneDriveProcess1 {
+rule DLL_SideLoading_For_Teams_And_OneDriveProcess {
 	meta:
 		author ="Ahmet Payaslioglu | Binalyze DFIR LAB"
 		date = "2022-08-15"
