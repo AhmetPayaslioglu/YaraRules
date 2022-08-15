@@ -2,9 +2,9 @@ rule DLL_SideLoading_For_Teams_And_OneDriveProcess
 {
 	meta:
 		author = "Ahmet Payaslioglu | Binalyze DFIR LAB"
+		description = "DLL sideloading technique to load the malicious libraries into the context of Teams and OneDrive processes"
 		date = "2022-08-15"
 		referance = "https://blog.cyble.com/2022/07/27/targeted-attacks-being-carried-out-via-dll-sideloading/"
-		description = "DLL sideloading technique to load the malicious libraries into the context of Teams and OneDrive processes"
 		hash1 = "35f8ab7776fbb3f989ac6c76a9600f8f5cac695d1a1b33a06edd5905fb901627"
 		hash2 = "cc95da27bd9703bd4f3c51b3db13635e72fbc38a1015d952c0dc833479f16a0a"
 		hash3 = "ee56e43ed64e90d41ea22435baf89e97e9238d8e670fc7ed3a2971b41ce9ffaf"
