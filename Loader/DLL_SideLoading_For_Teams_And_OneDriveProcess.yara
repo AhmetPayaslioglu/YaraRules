@@ -14,5 +14,5 @@ rule DLL_SideLoading_For_Teams_And_OneDriveProcess {
 
 
 	condition:
-		uint16 ( 0 ) == 0x5a4d and (filesize<600KB) and ((2 of ($a*) or 4 of them)) 
+		uint16 ( 0 ) == 0x5a4d and (filesize<700KB) and ((2 of ($a*) or 4 of them)) 
 }
